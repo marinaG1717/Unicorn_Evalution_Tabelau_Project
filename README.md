@@ -41,3 +41,10 @@ This project analyzes **sales, profit, and discount trends for 2018** using Tabl
 * `Dashboards/`
 * `Reports/`: Final presentation in PDF format
 * `README.md`: Overview and recommendations
+
+## 👩‍💻 Author
+
+**Marianna Gokova**  
+*Data Analyst*  
+📎 [LinkedIn](https://www.linkedin.com/in/marianna-kravchenko)  
+📅 *Date: 2024-12-23*
