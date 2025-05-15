@@ -37,7 +37,7 @@ This project analyzes **sales, profit, and discount trends for 2018** using Tabl
 
 ### 📁 Folder Structure
 
-* `data/`
-* `dashboard/`
-* `report/`: Final presentation in PDF format
+* `Data/`
+* `Dashboard/`
+* `Report/`: Final presentation in PDF format
 * `README.md`: Overview and recommendations
